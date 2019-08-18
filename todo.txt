@@ -1,0 +1,4 @@
+//compress the uploaded file
+page refreshing in ajax
+color picker in html
+ajax on color choose
